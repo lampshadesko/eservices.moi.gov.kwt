@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <img src="path_to_your_image.jpg" alt="Image">
+    <img src="file:///Users/nadiasaher/Desktop/driver/website%20copy.jpg" alt="Image">
 </body>
 
 </html>
